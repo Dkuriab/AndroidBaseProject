@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+    <string name="firstfragment">FirstFragment</string>
+    <string name="secondfragment">SecondFragment</string>
+</resources>
